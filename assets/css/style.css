@@ -9,15 +9,14 @@ body {
 }
 
 h3 {
-  font-size: 30px;
+  font-size: 33px;
   font-family: 'Courier New', Courier, monospace;
   color: #9B6F1D;
-  width: 15%;
   border-right: 3px solid #346E34;
   text-align: right;
-  padding: 10px 15px;
-  padding-right: 10px;
-  margin: 10px 15px;
+  padding: 35px 15px;
+  padding-right: 50px;
+  margin: 20px 25px;
   font-weight: bold;
 }
 
@@ -71,7 +70,7 @@ header nav ul li a {
 }
 
 header nav ul li a:hover, header h1 a:hover{
-  color: #D5A350
+  color: #9B6F1D;
 }
 
 /* HERO SECTION */
@@ -144,8 +143,8 @@ header nav ul li a:hover, header h1 a:hover{
 .project1::before {
   content: "";
   background-image: url(../images/wave.jpg);
-  opacity: .7;
   background-size: cover;
+  opacity: .7;
   position: absolute;
   top: 0px;
   right: 0px;
@@ -156,8 +155,8 @@ header nav ul li a:hover, header h1 a:hover{
 .project2::before {
   content: "";
   background-image: url(../images/lights.jpg);
-  opacity: 0.7;
   background-size: cover;
+  opacity: 0.7;
   position: absolute;
   top: 0px;
   right: 0px;
@@ -255,7 +254,7 @@ footer ul li a {
 }
 
 footer ul li a:hover{
-  color: #D5A350;
+  color: #9B6F1D;
 }
 
 
