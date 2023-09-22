@@ -12,5 +12,4 @@ My Personal Website
 https://mixedbeans.github.io/portfolio/
 
 ## Contribution
-Made with ❤️ by Spencer Biehn
-
+Made with ❤️ by Spencer Rosewood
